@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【ニコカラ】ラストリゾート【オフボーカル歌詞付きカラオケ/初音ミク/Ayase/offvocal】",
+  "base_artist": "ニコカラオフボーカルチャンネル",
+  "createdAt": "2025-12-01T07:45:40.755632Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "last resort",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_01_last_resort_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Last Resort",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_02_Last_Resort_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "last resort",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_03_last_resort_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ラストリゾート",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_04_ラストリゾート_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ラストリゾート",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_05_ラストリゾート_T.M.Revolution.txt"
+    }
+  ]
+}
